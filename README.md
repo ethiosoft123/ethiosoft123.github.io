@@ -24,3 +24,5 @@ Contact Information For any questions or concerns regarding the privacy policy, 
 🌱 I’m currently learning ...notthing
 💞️ I’m looking to collaborate on ...
 📫 How to reach me minte0031@gmail.com
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7664170567530807"
+     crossorigin="anonymous"></script>
